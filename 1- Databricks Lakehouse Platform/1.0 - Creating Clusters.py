@@ -6,6 +6,11 @@
 # COMMAND ----------
 
 # MAGIC %md
+# MAGIC Test add text
+
+# COMMAND ----------
+
+# MAGIC %md
 # MAGIC #### Creating a Demo Cluster
 # MAGIC
 # MAGIC Create a cluster with the following configurations:
